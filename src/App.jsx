@@ -1,9 +1,10 @@
 
 import './App.css';
+import QuoteOfTheDay from './Components/Quote';
 
 function App() {
   return (
-    <p>Hello!</p>
+    <QuoteOfTheDay/>
   );
 }
 

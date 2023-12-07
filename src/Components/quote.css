@@ -1,0 +1,26 @@
+.container {
+    margin-top: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column; 
+  }
+ .card{
+        background-color: lavender;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+        margin: 30px;
+ }
+ button {
+    background-color: lightgreen;  
+    padding: 10px;
+    font-size: 16px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+  }
+  
+  button:hover {
+    background-color: darkgreen;
+  }
